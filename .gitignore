@@ -1,2 +1,6 @@
 *.class
 *.log
+traderbot/target
+traderbot/project/target
+traderbot/.idea
+target
